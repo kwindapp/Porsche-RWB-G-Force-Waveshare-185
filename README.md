@@ -1,4 +1,6 @@
 # Porsche / RWB G-force meter — minimalist peak markers
+<img width="3021" height="3319" alt="IMG_9431" src="https://github.com/user-attachments/assets/c37b1bd7-32ec-45ea-872d-34cc1a4d7c3f" />
+
 
 Waveshare ESP32-S3 Touch LCD 1.85, 360x360, USB-C down.
 
